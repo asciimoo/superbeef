@@ -1,0 +1,16 @@
+**SuperBeeF** is a python HTTP proxy to debug/rewrite/resend HTTP traffic
+
+
+(C) 2010 by Adam Tauber <asciimoo@gmail.com>
+Licensed under the GNU Affero General Public License v3
+
+
+
+usage:
+ * ./superbeef.py
+
+
+dependencies:
+ * python2.5 or higher
+
+
